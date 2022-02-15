@@ -1,4 +1,4 @@
-# Ai266-spring22
+<h1 align="center">Ai266-spring22</h1>
 
 ## Group Members
 | Student ID | Name |
