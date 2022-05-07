@@ -1,4 +1,4 @@
-<h1 align="center">Assignment 2</h1>
+<h1 align="center">Assignment - 2</h1>
 
 ## Group Members
 | Student ID | Name |
