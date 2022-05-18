@@ -21,3 +21,4 @@ I'm Murtaza Memon. Having completed my intermediate as a **Computer Science** st
 Reason of my choosing computer science is the I have little bit interest in the field, and I don’t want to study chemistry. After completing my bachelor’s in computer science I want to do masters in cyber security for my future goals and my future goals are to stablish my own business.
 
 ### Muhammad Kashan :
+I'm Muhmmad kashan Having completed my intermediate as a pre engineering student from D.J sindh govt science college,Karachi in 2018, I'm currently enrolled as a Computer Science major at PAF Karachi Institute of Economics & Technology (KIET).After completing my bachelor's degree I want to go abroad for masters degree in IT field and explore this enormous field.First, I will do job and gather some amount to start my own startup and my hobbies are to play football watching
