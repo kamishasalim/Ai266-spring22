@@ -14,3 +14,7 @@ I am a human friendly *(social)* animal and an animal friendly human. I like pla
 
 ### Bilal Shoukat
 My name is Bilal shoukat. i have done my intermediate in computer science from C.A.S collage in 2019 . Reason of my choosing computer science is the I have little bit interest in the field, and I don’t want to study chemistry. After completing my bachelor’s in computer science I want to do MBA in marketing for my future goals and my future goals are to stablish my own business. First, I will do job and gather some amount to start my own startup and my hobbies are to play football watching series and gather information about marketing.
+
+### Murtaza Memon
+I'm Murtaza Memon. Having completed my intermediate as a **Computer Science** student from **superior college Karachi**, in 2018, I'm currently enrolled as a **Computer Science** major at **PAF Karachi Institute of Economics & Technology (kiet) .
+Reason of my choosing computer science is the I have little bit interest in the field, and I don’t want to study chemistry. After completing my bachelor’s in computer science I want to do masters in cyber security for my future goals and my future goals are to stablish my own business.
