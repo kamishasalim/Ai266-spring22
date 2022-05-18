@@ -14,7 +14,14 @@ Then on Kaggle we joined the "Tabular Playground Series - May 2022" competition.
 We got stuck in writing the program, however, our professor helped us with a few things and we learned about different libraries in pyhton which finally helped us completing the code.
 
 ## Contributions
-
+**11070 Kamisha Salim:**</br>
+</br>
+**11041 Bilal Shoukat:**</br>
+</br>
+**63803 Murtaza Memon:**</br>
+</br>
+**64055 Muhammad Kashan:**</br>
+</br>
 
 ## Screenshot of Kaggle score
 ![Screenshot_4](https://user-images.githubusercontent.com/99355356/169032390-3c729799-3d72-4102-a139-811ee129ec9a.png)
