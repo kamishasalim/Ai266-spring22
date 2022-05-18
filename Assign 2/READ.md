@@ -8,11 +8,13 @@
 | 63803 | Murtaza Memon |
 | 64055 | Muhammad Kashan |
 
-## Code
-#Importing Libraries </br>
-import pandas as pd </br>
-import numpy as np </br>
+## Problems Faced in the Assignment
+First of all we learned about Kaggle as we did not know about this website. We then came to know that Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. </br>
+Then on Kaggle we joined the "Tabular Playground Series - May 2022" competition. We faced some problems in joining the competition but we identified a workaround for it. After joining the competition or next step was to write a python code that will be submitted on Kaggle which will then generate our score based on the code.</br>
+We got stuck in writing the program, however, our professor helped us with a few things and we learned about different libraries in pyhton which finally helped us completing the code.
 
-#Reading Test Data </br>
-testDf = pd.read_csv('C:/Users/ucom/Desktop/test.csv') </br>
+## Contributions
 
+
+## Screenshot of Kaggle score
+![Screenshot_4](https://user-images.githubusercontent.com/99355356/169032390-3c729799-3d72-4102-a139-811ee129ec9a.png)
