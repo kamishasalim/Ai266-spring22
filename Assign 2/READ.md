@@ -16,7 +16,7 @@ We got stuck in writing the program, however, our professor helped us with a few
 ## Contributions
 **11070 Kamisha Salim:** Created a Assign 2 repository, added a READ.md and python code file and also submitted the code file on Kaggle.</br>
 </br>
-**11041 Bilal Shoukat:** </br>
+**11041 Bilal Shoukat:** Worked on the python program with Kashan  </br>
 </br>
 **63803 Murtaza Memon:** </br>
 </br>
