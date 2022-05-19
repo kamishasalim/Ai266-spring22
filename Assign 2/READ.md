@@ -18,7 +18,7 @@ We got stuck in writing the program, however, our professor helped us with a few
 </br>
 **11041 Bilal Shoukat:** Worked on the python program with Kashan  </br>
 </br>
-**63803 Murtaza Memon:** </br>
+**62803 Murtaza Memon:** Learned about different python libraries and chose the suitable libraries that needed to be added to the python program. </br>
 </br>
 **64055 Muhammad Kashan:** </br>
 </br>
