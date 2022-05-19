@@ -20,7 +20,8 @@ We got stuck in writing the program, however, our professor helped us with a few
 </br>
 **62803 Murtaza Memon:** Learned about different python libraries and chose the suitable libraries that needed to be added to the python program. </br>
 </br>
-**64055 Muhammad Kashan:** </br>
+**64055 Muhammad Kashan:** Downloaded the test.csv file and supervised the python program with Bilal.
+</br>
 </br>
 
 ## Screenshot of Kaggle score
