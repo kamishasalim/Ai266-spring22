@@ -5,7 +5,7 @@
 | :---: | :---:  | :---:  |
 | 11041 | Bilal Shoukat | Lidstone Smoothing
 | 11070 | Kamisha Salim | KNN |
-| 62803 | Murtaza Memon | 
+| 62803 | Murtaza Memon | Naive Bayes - Laplace Smoothing |
 | 64055 | Muhammad Kashan | Perceptron
 
 ## Problems Faced in the Assignment
@@ -17,6 +17,9 @@ The k-nearest neighbors (KNN) algorithm is a simple, supervised machine learning
 The accuracy of this model was 50%-53% percent when the number of neighbours were 15 but after increasing just one more neighbour i.e. 16, the accuracy of this model significantly changed to 65%. Which means that increasing the amount of neighbours will also increase the accuracy of the model. The problem of accuracy was also solved by selecting the columns with the best variance (f_22, f_25, f_19, f_24, f_21, f_26) and also deleting column f_27 because it was irrelevent. The major drawback of KNN is becoming drastically slow as the size of the data in use grows. The main problem was that it takes a lot of time to train this model.
 
 ### Murtaza Memon
+Naive Bayes - Laplace Smoothing
+![image](https://user-images.githubusercontent.com/41837489/169521266-3fe56c3d-333e-4e9f-96dc-198394a08559.png)
+
 
 
 ### Muhammad Kashan (Perceptron)
