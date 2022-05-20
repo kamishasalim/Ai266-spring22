@@ -13,7 +13,7 @@
 
 
 ### Kamisha Salim (KNN)
-
+The accuracy of this model was 50%-53% percent when the number of neighbours were 15 but after increasing just one more neighbour i.e. 16, the accuracy of this model significantly changed to 65%. Which means that increasing the amount of neighbours will also increase the accuracy of the model. The problem of accuracy was also solved by selecting the columns with the best variance (f_22, f_25, f_19, f_24, f_21, f_26) and also deleting column f_27 as it was an irrelevent column.
 
 ### Murtaza Memon
 
