@@ -22,6 +22,8 @@
 
 
 ### Murtaza Memon (Laplace Smoothing)
+i have used the grid and confusion matrix for finding the accuracy.there were little effect on the accuracy by applying these algorithm and that method  consuming too much time .
+![image](https://user-images.githubusercontent.com/41837489/169533231-471c25cf-5e0b-45cb-afb4-78124786b9ab.png)
 
 
 ### Muhammad Kashan (Perceptron)
