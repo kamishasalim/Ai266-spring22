@@ -23,6 +23,7 @@ The accuracy of this model was 50%-53% percent when the number of neighbours wer
 ![Screenshot_2](https://user-images.githubusercontent.com/99355356/169399555-9586bd8b-8ab4-430e-8e04-31f3f1ed060c.png)
 
 ### Murtaza Memon (Laplace Smoothing)
-![image](https://user-images.githubusercontent.com/41837489/169521266-3fe56c3d-333e-4e9f-96dc-198394a08559.png)
+![image](https://user-images.githubusercontent.com/41837489/169532492-e192faa4-e219-4930-9b46-ec0cd09cf733.png)
+
 
 ### Muhammad Kashan (Perceptron)
