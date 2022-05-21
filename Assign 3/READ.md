@@ -3,14 +3,14 @@
 ## Group Members
 | Student ID | Name | ML Technique |
 | :---: | :---:  | :---:  |
-| 11041 | Bilal Shoukat | Naive Bayes - Lidstone Smoothing
+| 11041 | Bilal Shoukat | Naive Bayes - Lidstone Smoothing |
 | 11070 | Kamisha Salim | KNN |
 | 62803 | Murtaza Memon | Naive Bayes - Laplace Smoothing |
-| 64055 | Muhammad Kashan | Perceptron
+| 64055 | Muhammad Kashan | Perceptron |
 
 ## Problems Faced in the Assignment
 ### Bilal Shoukat (Lidstone Smoothing)
-
+Lidstone smoothing, is a technique used to smooth categorical data. Given a set of observation counts from a -dimensional multinomial distribution with. It is very difficult to increase the accuracy of this model even after increasing the number of states in the code. After some tweaking with the values and even deleting column f_27 which had irrelevent values, the score increased by just 0.001%. Training this model was not slow at all but the difficult part was increasing its accuracy.
 
 ### Kamisha Salim (KNN)
 The k-nearest neighbors (KNN) algorithm is a simple, supervised machine learning algorithm that can be used to solve both classification and regression problems. It's easy to implement and understand. </br>
