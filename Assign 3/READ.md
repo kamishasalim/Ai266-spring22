@@ -18,6 +18,7 @@ The accuracy of this model was 50%-53% percent when the number of neighbours wer
 
 ## Screenshot of Kaggle score
 ### Bilal Shoukat (Lidstone Smoothing)
+![Screenshot 2022-05-21 102450](https://user-images.githubusercontent.com/63594764/169636928-78981648-d542-456d-b56a-83dc17e35bbb.png)
 
 ### Kamisha Salim (KNN)
 ![Screenshot_2](https://user-images.githubusercontent.com/99355356/169399555-9586bd8b-8ab4-430e-8e04-31f3f1ed060c.png)
