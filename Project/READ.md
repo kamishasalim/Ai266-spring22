@@ -19,6 +19,7 @@
 ### Bilal Shoukat (Lidstone Smoothing)
 
 ### Kamisha Salim (KNN)
+![Screenshot_2](https://user-images.githubusercontent.com/99355356/169633852-d0efd208-8fc1-4653-aaf1-883bf40e1828.png)
 
 
 ### Murtaza Memon (Laplace Smoothing)
