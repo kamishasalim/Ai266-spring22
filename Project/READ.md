@@ -17,6 +17,8 @@
 
 ## Screenshot of Kaggle score
 ### Bilal Shoukat (Lidstone Smoothing)
+![s1](https://user-images.githubusercontent.com/63594764/169640098-bfab11e4-e2e4-4d7e-8d9b-6d937d64386c.png)
+
 
 ### Kamisha Salim (KNN)
 ![Screenshot_2](https://user-images.githubusercontent.com/99355356/169633852-d0efd208-8fc1-4653-aaf1-883bf40e1828.png)
