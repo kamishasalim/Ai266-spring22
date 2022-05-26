@@ -30,3 +30,4 @@ i have used the grid and confusion matrix for finding the accuracy.there were li
 
 
 ### Muhammad Kashan (Perceptron)
+![image](https://user-images.githubusercontent.com/59486929/170524365-9bf4aee2-dd1e-4666-8e47-dda2ca763aa5.png)
